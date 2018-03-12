@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/client-combined-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/client-combined-3.9.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Selenium/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Excel/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Excel/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Excel/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Excel/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Excel/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Excel/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mramos/eclipse/Eclipse-Oxigeno/eclipse/ProgramasJava/Reto_Banco_Visitanos/Files/Lib_Excel/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
